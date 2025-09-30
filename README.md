@@ -24,7 +24,7 @@ Hence to cater this problem I architected a SQL-based Superstore Data Warehouse 
 
 ### Analytics
 
-I designed Quarterly Sales Forecasting Dashboard to get insights on State Wise Distribution of Sales & Profit Time Series using Tableau.
+I designed Quarterly Sales Forecasting Dashboard to get insights on State Wise Distribution of Sales and Profit Time Series using Tableau.
 
 Here is the glimpse of dashboard.
 ![Screenshot 2023-04-12 165416](https://user-images.githubusercontent.com/84131752/231447810-39810cfc-f423-4463-b6c8-e2eb4c73f878.png)
